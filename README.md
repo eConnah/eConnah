@@ -1,4 +1,4 @@
-<h2 align="center">Hei Hei, I'm Connor Alecks 👋</h2>
+<h2 align="center">Hei Hei, welcome to my page 👋</h2>
 <h4 align="center">
   <a href="https://econnah.uk">🌐 Visit my full homepage at econnah.uk</a>
 </h4>
